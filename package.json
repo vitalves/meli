@@ -1,0 +1,22 @@
+{
+  "name": "test-meli",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "next": "latest",
+    "next-seo": "latest",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "styled-components": "^5.0.1"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-plugin-root-import": "^6.4.1",
+    "babel-plugin-styled-components": "^1.10.7"
+  }
+}
