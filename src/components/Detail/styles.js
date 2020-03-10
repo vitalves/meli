@@ -15,6 +15,7 @@ export const Container = styled.div`
     display: flex;
     flex-direction: column;
     margin: 32px auto;
+    max-height: 500px;
   }
 
   .details-item strong {
